@@ -1,0 +1,3 @@
+Transaction_Date,Time,Amount,Merchant_City,Merchant_State,Is_Fraud?
+15/10/2002,16:49:00,2232480.0,Lincoln,NE,No
+16/10/2002,11:47:00,3424319.8,Tilden,NE,No

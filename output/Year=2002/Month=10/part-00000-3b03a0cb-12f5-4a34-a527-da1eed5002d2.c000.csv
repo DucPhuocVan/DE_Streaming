@@ -1,0 +1,4 @@
+Transaction_Date,Time,Amount,Merchant_City,Merchant_State,Is_Fraud?
+27/10/2002,6:04:00,3144480.0,Mira Loma,CA,No
+27/10/2002,6:40:00,889440.06,La Verne,CA,No
+28/10/2002,6:17:00,3766319.8,La Verne,CA,No

@@ -1,0 +1,3 @@
+Transaction_Date,Time,Amount,Merchant_City,Merchant_State,Is_Fraud?
+21/10/2002,12:31:00,1177920.0,Mira Loma,CA,No
+21/10/2002,12:39:00,,Mira Loma,CA,No

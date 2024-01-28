@@ -1,0 +1,3 @@
+Transaction_Date,Time,Amount,Merchant_City,Merchant_State,Is_Fraud?
+1/11/2002,10:59:00,592080.0,La Verne,CA,No
+1/11/2002,13:53:00,1106400.0,Monterey Park,CA,No

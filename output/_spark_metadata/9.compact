@@ -1,0 +1,11 @@
+v1
+{"path":"file:///home/phuoc/Documents/project/output/part-00000-c2a0f301-3df7-4b02-9b80-64966776e644-c000.csv","size":133882,"isDir":false,"modificationTime":1706429745595,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/phuoc/Documents/project/output/part-00000-24e3d3d5-ec86-4d24-a96a-e38a4fec443f-c000.csv","size":524,"isDir":false,"modificationTime":1706430748494,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/phuoc/Documents/project/output/part-00000-356d6d45-4cf6-4ada-bfc5-aa8c0f2f2269-c000.csv","size":195,"isDir":false,"modificationTime":1706430750646,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/phuoc/Documents/project/output/Year=2002/part-00000-2d7dfa07-32ef-49a5-8d9c-735ff7461b00.c000.csv","size":364,"isDir":false,"modificationTime":1706430877093,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/phuoc/Documents/project/output/Year=2002/part-00000-5639dfa7-3ee9-4b5d-8eaa-3b23c248707f.c000.csv","size":199,"isDir":false,"modificationTime":1706430925652,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/phuoc/Documents/project/output/Year=2002/part-00000-c13988f3-cbb0-47cf-b28c-b5cd8bd76450.c000.csv","size":206,"isDir":false,"modificationTime":1706430930620,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/phuoc/Documents/project/output/Year=2002/part-00000-a0778b60-d43e-4d75-b659-9e3790d1a0b2.c000.csv","size":260,"isDir":false,"modificationTime":1706430935660,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/phuoc/Documents/project/output/Year=2002/part-00000-343686d3-3b13-4163-8b99-72a33db640d5.c000.csv","size":206,"isDir":false,"modificationTime":1706430940264,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/phuoc/Documents/project/output/Year=2002/part-00000-081e42d2-8294-492b-a400-d77a974ba162.c000.csv","size":249,"isDir":false,"modificationTime":1706430945616,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/phuoc/Documents/project/output/Year=2002/part-00000-07c9345c-96a1-4b04-8d11-6ba04367dbed.c000.csv","size":201,"isDir":false,"modificationTime":1706430950608,"blockReplication":1,"blockSize":33554432,"action":"add"}
